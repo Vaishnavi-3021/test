@@ -1,0 +1,51 @@
+ID,Name,Age,Department,Salary,Product,Quantity,Customer Feedback,Location
+1,John Doe,29,Engineering,60000,Laptop,1,Excellent,New York
+2,Jane Smith,34,Marketing,75000,Headphones,2,Good,Los Angeles
+3,Emily Johnson,26,Design,50000,Phone,3,Fair,Chicago
+4,Michael Brown,41,Management,90000,Tablet,1,Excellent,Houston
+5,Chris Davis,31,Sales,55000,Monitor,2,Good,Seattle
+6,Patricia Wilson,28,HR,52000,Keyboard,3,Fair,Denver
+7,James White,37,Engineering,72000,Mouse,2,Good,Atlanta
+8,Sophia Adams,30,IT,68000,Charger,4,Excellent,San Francisco
+9,Daniel Thompson,45,Finance,85000,Camera,1,Fair,Boston
+10,Isabella Martinez,32,Operations,77000,TV,2,Good,Miami
+11,David Garcia,25,Engineering,58000,Speaker,3,Fair,New York
+12,Mia Carter,29,Marketing,72000,Phone,2,Excellent,Los Angeles
+13,Jacob Robinson,40,Management,88000,Tablet,1,Good,Chicago
+14,Linda Harris,33,HR,55000,Laptop,2,Fair,Houston
+15,Matthew Clark,38,IT,70000,Monitor,1,Excellent,Seattle
+16,Emily Walker,27,Design,52000,Keyboard,2,Good,Denver
+17,James Lewis,36,Sales,60000,Headphones,3,Fair,Atlanta
+18,Charlotte Allen,30,Operations,73000,Mouse,2,Excellent,San Francisco
+19,Ethan Scott,35,Engineering,76000,Camera,1,Good,Boston
+20,Ava King,26,HR,51000,Tablet,3,Fair,Miami
+21,Alexander Young,39,Finance,87000,TV,2,Good,New York
+22,Sofia Hill,28,Marketing,71000,Speaker,2,Fair,Los Angeles
+23,William Carter,42,IT,73000,Laptop,2,Good,Chicago
+24,Benjamin Moore,31,Design,54000,Phone,2,Excellent,Houston
+25,Isabella Garcia,30,Sales,56000,Charger,3,Fair,Seattle
+26,Owen White,37,Operations,74000,Mouse,3,Fair,Denver
+27,Liam Martinez,29,HR,50000,Keyboard,1,Good,Atlanta
+28,Lucas Adams,34,Finance,88000,Monitor,3,Fair,San Francisco
+29,Zoe Nelson,25,IT,56000,Camera,1,Good,Boston
+30,Elijah King,31,Engineering,59000,Tablet,2,Good,Miami
+31,Avery Campbell,28,Marketing,70000,Phone,3,Fair,New York
+32,Hannah Carter,26,Sales,58000,Laptop,2,Excellent,Los Angeles
+33,Daniel Evans,35,Management,89000,Speaker,2,Fair,Chicago
+34,Scarlett Phillips,33,HR,54000,Headphones,1,Good,Houston
+35,Nathan Scott,40,Engineering,81000,Tablet,1,Fair,Seattle
+36,Mason Gray,29,Operations,72000,Camera,2,Fair,Denver
+37,Sophia Ross,27,Finance,60000,Mouse,2,Good,Atlanta
+38,David Peterson,45,Management,92000,Laptop,2,Fair,San Francisco
+39,Chloe Simmons,26,HR,53000,Keyboard,1,Good,Miami
+40,James Foster,38,IT,72000,Phone,2,Fair,Boston
+41,Amelia Rogers,31,Operations,70000,Monitor,3,Fair,New York
+42,Michael Allen,30,Engineering,77000,Headphones,2,Good,Los Angeles
+43,Isabella Baker,34,Marketing,75000,Laptop,3,Fair,Chicago
+44,Ethan Carter,29,IT,69000,Keyboard,2,Good,Houston
+45,Liam Brooks,31,Sales,57000,Speaker,2,Fair,Seattle
+46,Alexander Murphy,36,Finance,87000,Camera,2,Good,Denver
+47,Charlotte James,28,HR,52000,Mouse,2,Fair,Atlanta
+48,Owen Green,35,Design,56000,Phone,1,Fair,San Francisco
+49,Emily Torres,32,Management,88000,TV,3,Good,Boston
+50,Benjamin Rivera,26,Operations,61000,Monitor,2,Fair,Miami
